@@ -1,6 +1,7 @@
 ### Hi there
 
-![AstronautaGif](https://github.com/OwerAndres/OwerAndres/assets/123062668/a3708b09-9673-4421-a2d9-3efe5a4e5197)
+![ciudad](https://github.com/OwerAndres/OwerAndres/assets/123062668/9fa704f1-0a34-4626-8fd2-b81b3e8ca5a0)
+
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owerandres&label=Profile%20views&color=0e75b6&style=flat" alt="owerandres" /> </p>
