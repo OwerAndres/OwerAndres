@@ -1,6 +1,6 @@
 ### Hi there
 
-![Untitled](https://github.com/OwerAndres/OwerAndres/assets/123062668/5ef93a7e-a79f-4884-ade0-683edb39e6ad)
+![ciudad](https://github.com/OwerAndres/OwerAndres/assets/123062668/4ed95a99-53f7-4dd6-a424-3843f344b6a3)
 
 
 <h3 align="center">A passionate frontend developer</h3>
