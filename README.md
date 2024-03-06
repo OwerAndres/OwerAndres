@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there
 
-<h1 align="center">Hi 👋, I'm Ower Castrillon</h1>
+<h1 align="center">![AstronautaGif](https://github.com/OwerAndres/OwerAndres/assets/123062668/a3708b09-9673-4421-a2d9-3efe5a4e5197)
+</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owerandres&label=Profile%20views&color=0e75b6&style=flat" alt="owerandres" /> </p>
