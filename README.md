@@ -11,7 +11,10 @@
 
 - 📫 How to reach me **owerandres611@gmail.com**
 
-- [LinkedIn]([https://www.linkedin.com/in/tu-username](https://www.linkedin.com/in/ower-andres-castrillon-valencia-456a19275/))
+- <a href="https://www.linkedin.com/in/tu-username" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
 
 
 <p align="left">
