@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owerandres&label=Profile%20views&color=0e75b6&style=flat" alt="owerandres" /> </p>
 
-- 🔭 I’m currently working on [Project Jadema](https://github.com/OwerAndres/Proyecto-Jadema)
 
-- 🌱 I’m currently learning **Boostrap, Unity, Sass**
+- 🌱 I’m currently learning **React, Unity, TailWindCss**
 
 - 📫 How to reach me **owerandres611@gmail.com**
 
